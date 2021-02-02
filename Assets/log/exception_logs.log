@@ -1,0 +1,3 @@
+<NullReferenceException: Object reference not set to an instance of an object> --- Begin Error Message: BaseClass+<Start>d__2.MoveNext () (at Assets/_TRINAX/Scripts/BaseClass.cs:22)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at C:/buildslave/unity/build/Runtime/Export/Coroutines.cs:17)
+

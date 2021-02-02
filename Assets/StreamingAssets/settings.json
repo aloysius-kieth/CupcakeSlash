@@ -1,0 +1,53 @@
+{
+    "globalSettings": {
+        "IP": "127.0.0.1",
+        "photoPath": "",
+        "idleInterval": 60.0,
+        "COMPORT1": "",
+        "useServer": false,
+        "useMocky": false,
+        "useKeyboard": true,
+        "muteAllSounds": false,
+        "useMouse": true
+    },
+    "gameSettings": {
+        "gameDuration": 60,
+        "rewardAmt": 10,
+        "EnableCombo": true,
+        "comboBonus": 2,
+        "minSpawnTime": 0.0,
+        "maxSpawnTime": 0.0,
+        "minToSpawn": 4,
+        "maxToSpawn": 10,
+        "minSpawnInRow": 5,
+        "maxSpawnInRow": 2,
+        "minForceCupcake": 12.0,
+        "maxForceCupcake": 15.0,
+        "minSideForceCupcake": 15.0,
+        "maxSideForceCupcake": 20.0,
+        "minForceBomb": 15.0,
+        "maxForceBomb": 20.0,
+        "minSideForceBomb": 15.0,
+        "maxSideForceBomb": 20.0,
+        "feverDuration": 8.0,
+        "freezeDuration": 5,
+        "third_tier_score": 800,
+        "second_tier_score": 1000,
+        "first_tier_score": 1500,
+        "timeToToggleSpawners": 0.0
+    },
+    "audioSettings": {
+        "masterVolume": 1.0,
+        "musicVolume": 1.0,
+        "SFXVolume": 0.8044226169586182,
+        "SFX2Volume": 1.0,
+        "SFX3Volume": 1.0,
+        "SFX4Volume": 1.0,
+        "UI_SFXVolume": 1.0,
+        "UI_SFX2Volume": 1.0
+    },
+    "kinectSettings": {
+        "isTrackingBody": false,
+        "isTrackingHead": false
+    }
+}
