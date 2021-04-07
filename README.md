@@ -1,6 +1,8 @@
 # Cupcake Slash
 [Video Link](https://www.youtube.com/watch?v=BsrmxmqezCA&t=2s)
 
+[Click here to find out more!](https://www.trinax.sg/game/lazada-cupcake-slash/)
+
 ## About
 A fruit ninja like clone, instead filled with declious looking cupcakes flying around. Slash special cupcakes to activate slow-mo mode to gain even more points, and to activate party mode where many cupcakes flood the screen in a state of frenzy.
 
